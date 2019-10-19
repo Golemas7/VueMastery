@@ -231,6 +231,42 @@
       "date": "",
       "time": "5:00",
       "attendees": []
+    },
+    {
+      "id": 6831568,
+      "user": {
+        "id": "abc123",
+        "name": "Adamn"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adamn"
+      },
+      "title": "Test",
+      "description": "Test event",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2604490,
+      "user": {
+        "id": "abc123",
+        "name": "Adamn"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adamn"
+      },
+      "title": "SUCESS!!",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
